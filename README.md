@@ -267,11 +267,14 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Screenshot 
 
+
 ## Transaction Dashboard
 ![image](https://github.com/user-attachments/assets/e2f362a3-be49-4de0-adef-1836d07767a4)
 
+
 ## Statistic along with Bar-Chart of Transaction for selected month
 ![image](https://github.com/user-attachments/assets/93519b11-fe0f-4d1b-b9f7-2e820eccaa12)
+
 
 ## Pie-Chart of selected month based on product category
 ![image](https://github.com/user-attachments/assets/e63142e9-68be-4eea-883b-25ea60191f22)
