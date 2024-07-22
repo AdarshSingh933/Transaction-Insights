@@ -1,6 +1,3 @@
-Here's a detailed README file for the "Transaction Insights" project:
-
-```markdown
 # Transaction Insights
 
 Transaction Insights is a MERN stack application that provides detailed insights and analytics on product transactions. The application allows users to view, search, and filter transactions, as well as visualize data using statistics, bar charts, and pie charts.
